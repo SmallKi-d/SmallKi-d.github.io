@@ -94,7 +94,7 @@
 
   <url>
     <loc>http://blog.kclub.tech/</loc>
-    <lastmod>2023-11-26</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,14 +102,14 @@
   
   <url>
     <loc>http://blog.kclub.tech/tags/TrueNAS/</loc>
-    <lastmod>2023-11-26</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.kclub.tech/tags/PVE/</loc>
-    <lastmod>2023-11-26</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -118,7 +118,7 @@
   
   <url>
     <loc>http://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2023-11-26</lastmod>
+    <lastmod>2023-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
