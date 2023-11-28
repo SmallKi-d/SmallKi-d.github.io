@@ -191,28 +191,28 @@
 
   
   <url>
-    <loc>http://blog.kclub.tech/tags/TrueNAS/</loc>
+    <loc>http://blog.kclub.tech/tags/Bootstrap/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/tags/PVE/</loc>
+    <loc>http://blog.kclub.tech/tags/jQuery/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/tags/zfspool/</loc>
+    <loc>http://blog.kclub.tech/tags/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/tags/NAS/</loc>
+    <loc>http://blog.kclub.tech/tags/Web/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -254,28 +254,28 @@
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/tags/Bootstrap/</loc>
+    <loc>http://blog.kclub.tech/tags/TrueNAS/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/tags/jQuery/</loc>
+    <loc>http://blog.kclub.tech/tags/PVE/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>http://blog.kclub.tech/tags/zfspool/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/tags/Web/</loc>
+    <loc>http://blog.kclub.tech/tags/NAS/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -284,14 +284,14 @@
 
   
   <url>
-    <loc>http://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/</loc>
+    <loc>http://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/</loc>
+    <loc>http://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/</loc>
     <lastmod>2023-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
