@@ -219,6 +219,34 @@
   </url>
   
   <url>
+    <loc>http://blog.kclub.tech/tags/TrueNAS/</loc>
+    <lastmod>2023-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kclub.tech/tags/PVE/</loc>
+    <lastmod>2023-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kclub.tech/tags/zfspool/</loc>
+    <lastmod>2023-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.kclub.tech/tags/NAS/</loc>
+    <lastmod>2023-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.kclub.tech/tags/Github/</loc>
     <lastmod>2023-11-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -248,34 +276,6 @@
   
   <url>
     <loc>http://blog.kclub.tech/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kclub.tech/tags/TrueNAS/</loc>
-    <lastmod>2023-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kclub.tech/tags/PVE/</loc>
-    <lastmod>2023-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kclub.tech/tags/zfspool/</loc>
-    <lastmod>2023-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.kclub.tech/tags/NAS/</loc>
     <lastmod>2023-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
