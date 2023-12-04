@@ -13,6 +13,7 @@
     const dbVersion = {
         write: (id) => caches.open(CACHE_NAME)
             .then(cache => cache.put(CTRL_PATH, new Response(JSON.stringify(id)))),
+        /** @return {*} */
         read: () => caches.match(CTRL_PATH).then(response => response?.json())
     }
 
@@ -20,16 +21,17 @@
         self.skipWaiting()
         const escape = 0
         if (escape) {
-            dbVersion.read().then(oldVersion => {
-                if (oldVersion && oldVersion.escape !== escape) {
-                    oldVersion.escape = escape
-                    dbVersion.write(oldVersion)
-                    // noinspection JSUnresolvedVariable
-                    caches.delete(CACHE_NAME)
-                        .then(() => clients.matchAll())
-                        .then(list => list.forEach(client => client.postMessage({type: 'escape'})))
-                }
-            })
+            dbVersion.read()
+                .then(async oldVersion => {
+                    if (oldVersion?.escape !== escape) {
+                        oldVersion.escape = escape
+                        await dbVersion.write(oldVersion)
+                        // noinspection JSUnresolvedVariable
+                        caches.delete(CACHE_NAME)
+                            .then(() => clients.matchAll())
+                            .then(list => list.forEach(client => client.postMessage({type: 'escape'})))
+                    }
+                })
         }
     })
 
