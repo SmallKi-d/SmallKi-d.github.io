@@ -1,9 +1,9 @@
+http://blog.kclub.tech/2023/11/25/%E5%9C%A8TrueNAS%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85PVE%E5%86%85%E6%A0%B8/
 http://blog.kclub.tech/2023/12/03/PVE%E8%BD%AF%E7%9B%98%E5%AE%89%E8%A3%85%E7%B3%BB%E7%BB%9FTips/
 http://blog.kclub.tech/2023/12/04/PVE%E5%AE%89%E8%A3%85PureDarwin%E5%86%85%E6%A0%B8%E7%B3%BB%E7%BB%9F/
 http://blog.kclub.tech/2023/11/28/Bootstrap-jQuery%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1/
 http://blog.kclub.tech/2023/11/27/TrueNAS%202023%E9%85%8D%E7%BD%AE%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%B9%E5%99%A8/
 http://blog.kclub.tech/2023/11/25/%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9F%9F%E5%90%8D%E5%85%8D%E8%B4%B9%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
-http://blog.kclub.tech/2023/11/25/%E5%9C%A8TrueNAS%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85PVE%E5%86%85%E6%A0%B8/
 http://blog.kclub.tech/2023/11/27/OBS%E6%90%AD%E5%BB%BA%E9%AB%98%E9%A2%9C%E5%80%BC%E7%9B%B4%E6%92%AD%E9%97%B4%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97/
 http://blog.kclub.tech/essay/index.html
 http://blog.kclub.tech/firstAlbum/index.html
@@ -32,5 +32,8 @@ http://blog.kclub.tech/tags/Cloudflare/
 http://blog.kclub.tech/tags/%E5%BB%BA%E7%AB%99/
 http://blog.kclub.tech/tags/%E5%9F%9F%E5%90%8D/
 http://blog.kclub.tech/tags/%E5%8D%9A%E5%AE%A2/
+http://blog.kclub.tech/tags/qemu-kvm/
+http://blog.kclub.tech/tags/%E7%B3%BB%E7%BB%9F%E6%80%80%E6%97%A7/
+http://blog.kclub.tech/tags/MSDOS/
 http://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/
 http://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/
