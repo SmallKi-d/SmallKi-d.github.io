@@ -83,16 +83,15 @@ let getSpareUrls = srcUrl => {
 }
 let isCors = () => false
 let isMemoryQueue = () => false
-const fetchFile = (request, banCache, spare = null) => {
-        if (!spare) {
-            spare = getSpareUrls(request.url)
-            if (!spare) return fetchWithCors(request, banCache)
+const fetchFile = (request, banCache, urls = null) => {
+        if (!urls) {
+            urls = getSpareUrls(request.url)
+            if (!urls) return fetchWithCors(request, banCache)
         }
-        const list = spare.list
+        const list = urls.list
         const controllers = new Array(list.length)
         // noinspection JSCheckFunctionSignatures
-        const startFetch =
-            index => fetchWithCors(
+        const startFetch = index => fetchWithCors(
                 new Request(list[index], request),
                 banCache,
                 {signal: (controllers[index] = new AbortController()).signal}
@@ -114,7 +113,7 @@ const fetchFile = (request, banCache, spare = null) => {
                     resolve(res.r)
                 }).catch(() => reject(`请求 ${request.url} 失败`))
             }
-            const id = setTimeout(startAll, spare.timeout)
+            const id = setTimeout(startAll, urls.timeout)
             const first = startFetch(0)
                 .then(res => {
                     if (flag) {
@@ -217,8 +216,8 @@ const fetchFile = (request, banCache, spare = null) => {
                 )
             )
         } else {
-            const spare = getSpareUrls(request.url)
-            if (spare) handleFetch(fetchFile(request, false, spare))
+            const urls = getSpareUrls(request.url)
+            if (urls) handleFetch(fetchFile(request, false, urls))
             // [modifyRequest else-if]
             else handleFetch(fetchWithCache(request).catch(err => new Response(err, {status: 499})))
         }
