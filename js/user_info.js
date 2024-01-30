@@ -1,25 +1,38 @@
-// csdn ip info
+// ipinfo
+
 var apiUrl = 'https://ipinfo.io/json?token=406ddb1346e83b';
 
-fetch(apiUrl)
-    .then(function(response){
+$(document).ready(()=>{
+    var currentPagePath = window.location.pathname;
+    if(currentPagePath === '/privacy/'){
+        writeTable();
+    }
+})
+$(document).on('pjax:complete', ()=>{
+    var currentPagePath = window.location.pathname;
+    if(currentPagePath === '/privacy/'){
+        writeTable();
+    }
+});
+
+function writeTable(){
+    fetch(apiUrl)
+    .then((response)=>{
         if (!response.ok) {
             throw new Error('Can\'t Fetch APU Url.' )
         }
-
         return response.json()
     })
-    .then(function(data){
-        var response = data
-        countryName = countryCodeToName(response.country);
-        document.getElementById('userAgentIp').innerHTML =  response.ip;
+    .then((data)=>{
+        countryName = countryCodeToName(data.country);
+        document.getElementById('userAgentIp').innerHTML =  data.ip;
         document.getElementById('userAgentCountry').innerHTML = countryName;
-        // document.getElementById('userAgentRegion').innerHTML = region;
-        document.getElementById('userAgentCity').innerHTML = city;
-        document.getElementById('userAgentIsp').innerHTML = org;
+        document.getElementById('userAgentRegion').innerHTML = data.region;
+        document.getElementById('userAgentCity').innerHTML = data.city;
+        document.getElementById('userAgentIsp').innerHTML = data.org;
         document.getElementById('userAgentDevice').innerHTML = navigator.userAgent;
     })
-    .catch(function(error){
+    .catch((error)=>{
         console.error(error)
         document.getElementById('userAgentIp').innerHTML =  '无法获取信息';
         document.getElementById('userAgentCountry').innerHTML = '无法获取信息';
@@ -28,6 +41,7 @@ fetch(apiUrl)
         document.getElementById('userAgentIsp').innerHTML = '无法获取信息' ;
         document.getElementById('userAgentDevice').innerHTML = navigator.userAgent;
     })
+}
 
 function countryCodeToName(countryCode) {
     // ISO 国家代码和国家名称的映射
