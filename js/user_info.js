@@ -292,7 +292,6 @@ function countryCodeToName(countryCode) {
         "ZW": "津巴布韦"
     };
     
-
-    // 返回对应国家代码的国家名称，如果不存在则返回 'Unknown'
+    // 返回对应国家代码的国家名称，如果不存在则返回国家代码
     return countryNames[countryCode] || countryCode;
 }
