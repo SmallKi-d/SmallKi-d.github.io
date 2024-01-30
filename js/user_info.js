@@ -25,21 +25,21 @@ function writeTable(){
     })
     .then((data)=>{
         countryName = countryCodeToName(data.country);
-        document.getElementById('userAgentIp').innerHTML =  data.ip;
-        document.getElementById('userAgentCountry').innerHTML = countryName;
-        document.getElementById('userAgentRegion').innerHTML = data.region;
-        document.getElementById('userAgentCity').innerHTML = data.city;
-        document.getElementById('userAgentIsp').innerHTML = data.org;
-        document.getElementById('userAgentDevice').innerHTML = navigator.userAgent;
+        $('#userAgentIp').html(data.ip);
+        $('#userAgentCountry').html(countryName);
+        $('#userAgentRegion').html(data.region);
+        $('#userAgentCity').html(data.city);
+        $('#userAgentIsp').html(data.org);
+        $('#userAgentDevice').html(navigator.userAgent);
     })
     .catch((error)=>{
         console.error(error)
-        document.getElementById('userAgentIp').innerHTML =  '无法获取信息';
-        document.getElementById('userAgentCountry').innerHTML = '无法获取信息';
-        document.getElementById('userAgentRegion').innerHTML = '无法获取信息';
-        document.getElementById('userAgentCity').innerHTML = '无法获取信息' ;
-        document.getElementById('userAgentIsp').innerHTML = '无法获取信息' ;
-        document.getElementById('userAgentDevice').innerHTML = navigator.userAgent;
+        $('#userAgentIp').html('无法获取信息');
+        $('#userAgentCountry').html('无法获取信息');
+        $('#userAgentRegion').html('无法获取信息');
+        $('#userAgentCity').html('无法获取信息');
+        $('#userAgentIsp').html('无法获取信息');
+        $('#userAgentDevice').html(navigator.userAgent);
     })
 }
 
