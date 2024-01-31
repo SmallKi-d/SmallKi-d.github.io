@@ -1,46 +1,59 @@
 // ipinfo
-
 var apiUrl = 'https://ipinfo.io/json?token=406ddb1346e83b';
 
-$(document).ready(()=>{
-    var currentPagePath = window.location.pathname;
-    if(currentPagePath === '/privacy/'){
-        writeTable();
-    }
-})
-$(document).on('pjax:complete', ()=>{
-    var currentPagePath = window.location.pathname;
-    if(currentPagePath === '/privacy/'){
-        writeTable();
-    }
-});
-
-function writeTable(){
-    fetch(apiUrl)
-    .then((response)=>{
-        if (!response.ok) {
-            throw new Error('Can\'t Fetch APU Url.' )
+function loadTableData(){
+    const currentPagePath = window.location.pathname;
+    if (currentPagePath === '/privacy/') {
+        const storedTableData = sessionStorage.getItem('tableData');
+        if (storedTableData) {
+            const tableData = JSON.parse(storedTableData);
+            writeTable(tableData);
+        } else {
+            fetch(apiUrl)
+                .then(response=>{
+                    if(!response.ok){
+                        throw new Error('Can\'t Fetch API Url.');
+                    }
+                    return response.json();
+                })
+                .then(data=>{
+                    writeTable(data);
+                    sessionStorage.setItem('tableData', JSON.stringify(data));
+                })
+                .catch(error => {
+                    writeTable(null);
+                    console.error('There was a problem with your fetch operation:', error);
+                });
         }
-        return response.json()
-    })
-    .then((data)=>{
+    }
+};
+
+$(()=>{loadTableData()});
+$(document).on('pjax:complete', ()=>{loadTableData()});
+
+function writeTable(data){
+    var $userAgentIp = $('#userAgentIp'),
+        $userAgentCountry = $('#userAgentCountry'),
+        $userAgentRegion = $('#userAgentRegion'),
+        $userAgentCity = $('#userAgentCity'),
+        $userAgentIsp = $('#userAgentIsp'),
+        $userAgentDevice = $('#userAgentDevice');
+    if (data === null){
+        $userAgentIp.html('无法获取信息');
+        $userAgentCountry.html('无法获取信息');
+        $userAgentRegion.html('无法获取信息');
+        $userAgentCity.html('无法获取信息');
+        $userAgentIsp.html('无法获取信息');
+        $userAgentDevice.html(navigator.userAgent);
+    } else {
         countryName = countryCodeToName(data.country);
-        $('#userAgentIp').html(data.ip);
-        $('#userAgentCountry').html(countryName);
-        $('#userAgentRegion').html(data.region);
-        $('#userAgentCity').html(data.city);
-        $('#userAgentIsp').html(data.org);
-        $('#userAgentDevice').html(navigator.userAgent);
-    })
-    .catch((error)=>{
-        console.error(error)
-        $('#userAgentIp').html('无法获取信息');
-        $('#userAgentCountry').html('无法获取信息');
-        $('#userAgentRegion').html('无法获取信息');
-        $('#userAgentCity').html('无法获取信息');
-        $('#userAgentIsp').html('无法获取信息');
-        $('#userAgentDevice').html(navigator.userAgent);
-    })
+        $userAgentIp.html(data.ip);
+        $userAgentCountry.html(countryName);
+        $userAgentRegion.html(data.region);
+        $userAgentCity.html(data.city);
+        $userAgentIsp.html(data.org);
+        $userAgentDevice.html(navigator.userAgent);
+    }
 }
 
 function countryCodeToName(countryCode) {
