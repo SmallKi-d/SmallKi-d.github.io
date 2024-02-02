@@ -9,7 +9,7 @@
     <atom:link href="http://blog.kclub.tech/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>当你探索编程的奥秘，追逐极客的乐趣，以及在大学生活中不断成长的过程中，欢迎来到我的个人博客。这里将分享丰富的编程经验、技术实践，以及我在极客折腾中的点滴收获。同时，你还将窥探到我在大学校园里的点滴日常，探讨学业、生活、成长的方方面面。与我一同畅游代码的海洋，感受极客世界的无限可能，以及大学生活的丰富多彩。让我们共同探索知识的辽阔领域，激发思维的火花，一同迎接编程与生活的精彩旅程。</description>
-    <pubDate>Thu, 01 Feb 2024 10:09:22 GMT</pubDate>
+    <pubDate>Fri, 02 Feb 2024 05:14:03 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,15 +18,7 @@
       <guid>http://blog.kclub.tech/2024/01/31/MoneyThings/</guid>
       <pubDate>Wed, 31 Jan 2024 11:51:23 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
-&lt;p&gt;随着理财需求越来越大，急需一款记账软件来辅助我的每日生活，拯救我杂乱的财产管理。但是在
-Apple</description>
-          
-        
+      <description>这篇文章介绍了一款全面的理财神器——MoneyThings。该软件包括前言、交易、One Touch、交易编辑器、客制化键盘、交易详情页、分析、资产、设置、导入交易等多个功能模块。文章指出，MoneyThings是一款非常纯正的 Swift 配合 SwiftUI 开发的软件，具有现代化的界面和免费的核心功能。文章逐一介绍了软件的各个功能，包括交易分类、搜索和添加、快捷指令和小组件、交易编辑器和客制化键盘等。该软件可帮助用户进行记账和财产管理。</description>
       
       
       
@@ -55,18 +47,7 @@ Apple</description>
       <guid>http://blog.kclub.tech/2024/01/31/js-with-json-api/</guid>
       <pubDate>Wed, 31 Jan 2024 03:06:57 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
-&lt;p&gt;最近很久都没有练习自己写 JS
-脚本的能力了，刚好在我的博客中需要读取用户的IP等信息，本想着网上直接拿一个
-API 调用就好，但是很多 API
-不是数据收集参数不够多，就是只允许企业和付费用户调用，好不容意找到个很好的
-API,</description>
-          
-        
+      <description>这篇文章介绍了一个关于JavaScript调用JSON API的实战经验。作者首先介绍了代码的实现步骤，包括获取API、调用API、写入数据等。然后，作者解决了一些问题，如如何格式化ISO国家代码以及如何进行异常处理和优化方法等。最后，作者分享了一个完整的代码实例，并提供了一些Troubleshooting的建议。</description>
       
       
       
@@ -93,13 +74,7 @@ API,</description>
       <guid>http://blog.kclub.tech/2024/01/30/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B%E4%BB%A3%E4%BB%B7%E5%87%BD%E6%95%B0/</guid>
       <pubDate>Tue, 30 Jan 2024 01:39:02 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2</description>
-          
-        
+      <description>这篇文章介绍了线性回归的代价函数。代价函数用于衡量模型预测结果与实际观测值之间的差异，衡量差异越小，模型的预测越准确。文中以均方误差作为代价函数，并给出了相关的代码实现。文章还介绍了一元线性回归和多元线性回归，并解释了过拟合的问题。最后通过实例代码演示了如何绘制代价函数的图像，并说明了一些注意事项。</description>
       
       
       
@@ -128,17 +103,7 @@ API,</description>
       <guid>http://blog.kclub.tech/2023/12/03/PVE%E8%BD%AF%E7%9B%98%E5%AE%89%E8%A3%85%E7%B3%BB%E7%BB%9FTips/</guid>
       <pubDate>Sun, 03 Dec 2023 14:21:50 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
-&lt;p&gt;在我尝试 PVE
-的过程中发现了很多问题，包括但不限于自定义性不足，不支持软盘 (Floppy)
-引导等等，但好在 PVE 是基于 &lt;code&gt;qemu-kvm&lt;/code&gt; 的，
-如此一来，我们利用 Shell</description>
-          
-        
+      <description>这篇文章介绍了PVE软盘安装系统的方法和步骤。作者分享了软盘镜像下载的网站，并详细记录了安装过程，包括创建虚拟机、挂载软盘、引导系统等操作。作者还提供了指令示例和注意事项，帮助读者成功完成安装。文章以结语和欢迎留言结束，并提到后续会更新基于开源内核的系统安装教程。</description>
       
       
       
@@ -165,16 +130,7 @@ API,</description>
       <guid>http://blog.kclub.tech/2023/11/28/Bootstrap-jQuery%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1/</guid>
       <pubDate>Tue, 28 Nov 2023 07:02:40 GMT</pubDate>
       
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
-&lt;p&gt;今天在看 BootStrap
-文档时，看到了进度条，但是所给的Demo都是静态的，并没有说明如何利用js控制。百度一圈也无果，大多都是自己手搓一个进度条。
-但是既然</description>
-          
-        
+      <description>这篇文章介绍了如何利用jQuery和Bootstrap实现合法性检测和加载进度条。文章首先讲解了实现方法、环境以及必要的引用。然后详细介绍了如何通过代码实现表单的合法性检测和进度条的加载，在加载完成后进行跳转操作。最后作者提到写这篇文章的初衷是因为网上的相关教程都有错误，希望能帮助其他同学少走弯路。</description>
       
       
       
