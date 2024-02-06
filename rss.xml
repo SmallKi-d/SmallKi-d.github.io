@@ -9,8 +9,45 @@
     <atom:link href="http://blog.kclub.tech/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>当你探索编程的奥秘，追逐极客的乐趣，以及在大学生活中不断成长的过程中，欢迎来到我的个人博客。这里将分享丰富的编程经验、技术实践，以及我在极客折腾中的点滴收获。同时，你还将窥探到我在大学校园里的点滴日常，探讨学业、生活、成长的方方面面。与我一同畅游代码的海洋，感受极客世界的无限可能，以及大学生活的丰富多彩。让我们共同探索知识的辽阔领域，激发思维的火花，一同迎接编程与生活的精彩旅程。</description>
-    <pubDate>Fri, 02 Feb 2024 05:24:19 GMT</pubDate>
+    <pubDate>Tue, 06 Feb 2024 14:10:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Android 刷机入门教程</title>
+      <link>http://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</link>
+      <guid>http://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</guid>
+      <pubDate>Mon, 05 Feb 2024 04:19:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;好久没玩刷机了，刚好最近捡了个旧手机玩一玩，想起当年刷机的经历还是蛮有意思的，没想到这么多年过去了还是没变，第三方
+Rec 还是用的 &lt;code&gt;TWRP&lt;/code&gt;， root 方案还是用的</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="http://blog.kclub.tech/tags/%E5%88%B7%E6%9C%BA/">刷机</category>
+      
+      <category domain="http://blog.kclub.tech/tags/%E5%AE%89%E5%8D%93/">安卓</category>
+      
+      <category domain="http://blog.kclub.tech/tags/ROM/">ROM</category>
+      
+      <category domain="http://blog.kclub.tech/tags/MIUI/">MIUI</category>
+      
+      <category domain="http://blog.kclub.tech/tags/TWRP/">TWRP</category>
+      
+      
+      <comments>http://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>MoneyThings -- 全面的理财神器</title>
