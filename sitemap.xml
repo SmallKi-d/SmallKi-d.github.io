@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
+    <loc>http://blog.kclub.tech/book/index.html</loc>
     
     <lastmod>2024-02-06</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://blog.kclub.tech/book/index.html</loc>
+    <loc>http://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</loc>
     
-    <lastmod>2024-02-02</lastmod>
+    <lastmod>2024-02-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
