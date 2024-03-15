@@ -9,8 +9,65 @@
     <atom:link href="http://blog.kclub.tech/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>当你探索编程的奥秘，追逐极客的乐趣，以及在大学生活中不断成长的过程中，欢迎来到我的个人博客。这里将分享丰富的编程经验、技术实践，以及我在极客折腾中的点滴收获。同时，你还将窥探到我在大学校园里的点滴日常，探讨学业、生活、成长的方方面面。与我一同畅游代码的海洋，感受极客世界的无限可能，以及大学生活的丰富多彩。让我们共同探索知识的辽阔领域，激发思维的火花，一同迎接编程与生活的精彩旅程。</description>
-    <pubDate>Tue, 06 Feb 2024 14:10:10 GMT</pubDate>
+    <pubDate>Fri, 15 Mar 2024 09:22:52 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>本地快速部署文生文AI</title>
+      <link>http://blog.kclub.tech/2024/03/15/%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E6%96%87%E7%94%9F%E6%96%87AI/</link>
+      <guid>http://blog.kclub.tech/2024/03/15/%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E6%96%87%E7%94%9F%E6%96%87AI/</guid>
+      <pubDate>Fri, 15 Mar 2024 08:40:55 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;当我们在网上搜索关于 “如何本地部署 text-generation-ai”
+时，你大概率会看到要求你不仅下载 Conda，而且还要自行创建</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="http://blog.kclub.tech/tags/AI/">AI</category>
+      
+      <category domain="http://blog.kclub.tech/tags/%E6%96%87%E7%94%9F%E6%96%87/">文生文</category>
+      
+      
+      <comments>http://blog.kclub.tech/2024/03/15/%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E6%96%87%E7%94%9F%E6%96%87AI/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023年终总结</title>
+      <link>http://blog.kclub.tech/2024/03/05/2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <guid>http://blog.kclub.tech/2024/03/05/2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <pubDate>Tue, 05 Mar 2024 02:48:34 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;这一年经历太多了，今天想了很多，跟大家说点心里话，回望看刚好是我转专业成功一周年，不得不感叹岁月如梭……&lt;/p&gt;
+&lt;p&gt;回想当年从刚开始的连静态网站都不会部署，到逐步自己创建社团，参加会议，学会了前端、人工智能和NAS等野鸡技术后，度过了一段抑郁期，又重新振作开始学习。这一</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://blog.kclub.tech/categories/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/">年终总结</category>
+      
+      
+      <category domain="http://blog.kclub.tech/tags/2023/">2023</category>
+      
+      
+    </item>
     
     <item>
       <title>Android 刷机入门教程</title>
