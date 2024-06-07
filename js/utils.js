@@ -55,7 +55,7 @@ const anzhiyu = {
     }
   },
 
-  snackbarShow: (text, showActionFunction = false, duration = 2000, actionText = false) => {
+  snackbarShow: (text, showActionFunction = false, duration = 0, actionText = false) => {
     const { position, bgLight, bgDark } = GLOBAL_CONFIG.Snackbar;
     const bg = document.documentElement.getAttribute("data-theme") === "light" ? bgLight : bgDark;
     const root = document.querySelector(":root");
@@ -1106,12 +1106,12 @@ const anzhiyu = {
         element.style.opacity = 0;
         travellingsTimer && clearTimeout(travellingsTimer);
       },
-      5000,
+      0,
       "取消"
     );
     travellingsTimer = setTimeout(function () {
       window.open("https://www.travellings.cn/go.html", "_blank");
-    }, "5000");
+    }, "0");
   },
 
   // 工具函数替换字符串

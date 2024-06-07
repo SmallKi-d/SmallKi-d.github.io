@@ -9,8 +9,35 @@
     <atom:link href="http://blog.kclub.tech/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>当你探索编程的奥秘，追逐极客的乐趣，以及在大学生活中不断成长的过程中，欢迎来到我的个人博客。这里将分享丰富的编程经验、技术实践，以及我在极客折腾中的点滴收获。同时，你还将窥探到我在大学校园里的点滴日常，探讨学业、生活、成长的方方面面。与我一同畅游代码的海洋，感受极客世界的无限可能，以及大学生活的丰富多彩。让我们共同探索知识的辽阔领域，激发思维的火花，一同迎接编程与生活的精彩旅程。</description>
-    <pubDate>Sat, 01 Jun 2024 12:23:24 GMT</pubDate>
+    <pubDate>Mon, 03 Jun 2024 03:20:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Godot 基于 C# 创建类饥荒摄像机视角</title>
+      <link>http://blog.kclub.tech/2024/06/01/godot-dontstarve-cam/</link>
+      <guid>http://blog.kclub.tech/2024/06/01/godot-dontstarve-cam/</guid>
+      <pubDate>Sat, 01 Jun 2024 13:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;该文章正在撰写中&quot;&gt;该文章正在撰写中…&lt;/h1&gt;
+&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近在学习 Godot</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/">编程开发</category>
+      
+      
+      
+      <comments>http://blog.kclub.tech/2024/06/01/godot-dontstarve-cam/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>蛇贸易汉化 macOS 汉化移植版</title>
