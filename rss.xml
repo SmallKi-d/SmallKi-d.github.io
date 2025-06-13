@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>迷失的小K</title>
+    <link>https://blog.kclub.tech/</link>
+    
+    <atom:link href="https://blog.kclub.tech/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>当你探索编程的奥秘，追逐极客的乐趣，以及在大学生活中不断成长的过程中，欢迎来到我的个人博客。这里将分享丰富的编程经验、技术实践，以及我在极客折腾中的点滴收获。同时，你还将窥探到我在大学校园里的点滴日常，探讨学业、生活、成长的方方面面。与我一同畅游代码的海洋，感受极客世界的无限可能，以及大学生活的丰富多彩。让我们共同探索知识的辽阔领域，激发思维的火花，一同迎接编程与生活的精彩旅程。</description>
+    <pubDate>Mon, 03 Jun 2024 03:20:33 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Godot 基于 C# 创建类饥荒摄像机视角</title>
+      <link>https://blog.kclub.tech/2024/06/01/godot-dontstarve-cam/</link>
+      <guid>https://blog.kclub.tech/2024/06/01/godot-dontstarve-cam/</guid>
+      <pubDate>Sat, 01 Jun 2024 13:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;该文章正在撰写中&quot;&gt;该文章正在撰写中…&lt;/h1&gt;
+&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近在学习 Godot</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/">编程开发</category>
+      
+      
+      
+      <comments>https://blog.kclub.tech/2024/06/01/godot-dontstarve-cam/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>蛇贸易汉化 macOS 汉化移植版</title>
+      <link>https://blog.kclub.tech/2024/06/01/%E8%9B%87%E8%B4%B8%E6%98%93%E6%B1%89%E5%8C%96%E7%A7%BB%E6%A4%8D/</link>
+      <guid>https://blog.kclub.tech/2024/06/01/%E8%9B%87%E8%B4%B8%E6%98%93%E6%B1%89%E5%8C%96%E7%A7%BB%E6%A4%8D/</guid>
+      <pubDate>Sat, 01 Jun 2024 11:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2
+id=&quot;这是一个在沙漠中通过销售水之类的物品赚取金钱的游戏&quot;&gt;这是一个在沙漠中，通过销售水之类的物品赚取金钱的游戏。&lt;/h2&gt;
+&lt;p&gt;本作品由 MIDORIKAWA</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/%E8%9B%87%E8%B4%B8%E6%98%93/">蛇贸易</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E6%B8%B8%E6%88%8F%E7%A7%BB%E6%A4%8D/">游戏移植</category>
+      
+      <category domain="https://blog.kclub.tech/tags/macOS/">macOS</category>
+      
+      
+      <comments>https://blog.kclub.tech/2024/06/01/%E8%9B%87%E8%B4%B8%E6%98%93%E6%B1%89%E5%8C%96%E7%A7%BB%E6%A4%8D/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>ヘビの命（蛇之命）macOS汉化移植版</title>
+      <link>https://blog.kclub.tech/2024/05/20/%E8%9B%87%E4%B9%8B%E5%91%BD%E6%B1%89%E5%8C%96%E7%A7%BB%E6%A4%8D/</link>
+      <guid>https://blog.kclub.tech/2024/05/20/%E8%9B%87%E4%B9%8B%E5%91%BD%E6%B1%89%E5%8C%96%E7%A7%BB%E6%A4%8D/</guid>
+      <pubDate>Mon, 20 May 2024 13:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;游戏简介&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;本作品由 MIDORIKAWA</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/%E8%9B%87%E4%B9%8B%E5%91%BD/">蛇之命</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E6%B8%B8%E6%88%8F%E7%A7%BB%E6%A4%8D/">游戏移植</category>
+      
+      <category domain="https://blog.kclub.tech/tags/macOS/">macOS</category>
+      
+      
+      <comments>https://blog.kclub.tech/2024/05/20/%E8%9B%87%E4%B9%8B%E5%91%BD%E6%B1%89%E5%8C%96%E7%A7%BB%E6%A4%8D/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>本地快速部署文生文AI</title>
+      <link>https://blog.kclub.tech/2024/03/15/%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E6%96%87%E7%94%9F%E6%96%87AI/</link>
+      <guid>https://blog.kclub.tech/2024/03/15/%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E6%96%87%E7%94%9F%E6%96%87AI/</guid>
+      <pubDate>Fri, 15 Mar 2024 08:40:55 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;当我们在网上搜索关于 “如何本地部署 text-generation-ai”
+时，你大概率会看到要求你不仅下载 Conda，而且还要自行创建</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/AI/">AI</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E6%96%87%E7%94%9F%E6%96%87/">文生文</category>
+      
+      
+      <comments>https://blog.kclub.tech/2024/03/15/%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E6%96%87%E7%94%9F%E6%96%87AI/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023年终总结</title>
+      <link>https://blog.kclub.tech/2024/03/05/2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <guid>https://blog.kclub.tech/2024/03/05/2023%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <pubDate>Tue, 05 Mar 2024 02:48:34 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;这一年经历太多了，今天想了很多，跟大家说点心里话，回望看刚好是我转专业成功一周年，不得不感叹岁月如梭……&lt;/p&gt;
+&lt;p&gt;回想当年从刚开始的连静态网站都不会部署，到逐步自己创建社团，参加会议，学会了前端、人工智能和NAS等野鸡技术后，度过了一段抑郁期，又重新振作开始学习。这一</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/">年终总结</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/2023/">2023</category>
+      
+      
+    </item>
+    
+    <item>
+      <title>Android 刷机入门教程</title>
+      <link>https://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</link>
+      <guid>https://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/</guid>
+      <pubDate>Mon, 05 Feb 2024 04:19:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;好久没玩刷机了，刚好最近捡了个旧手机玩一玩，想起当年刷机的经历还是蛮有意思的，没想到这么多年过去了还是没变，第三方
+Rec 还是用的 &lt;code&gt;TWRP&lt;/code&gt;， root 方案还是用的</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/%E5%88%B7%E6%9C%BA/">刷机</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E5%AE%89%E5%8D%93/">安卓</category>
+      
+      <category domain="https://blog.kclub.tech/tags/ROM/">ROM</category>
+      
+      <category domain="https://blog.kclub.tech/tags/MIUI/">MIUI</category>
+      
+      <category domain="https://blog.kclub.tech/tags/TWRP/">TWRP</category>
+      
+      
+      <comments>https://blog.kclub.tech/2024/02/05/Android%E5%88%B7%E6%9C%BA%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>MoneyThings -- 全面的理财神器</title>
+      <link>https://blog.kclub.tech/2024/01/31/MoneyThings/</link>
+      <guid>https://blog.kclub.tech/2024/01/31/MoneyThings/</guid>
+      <pubDate>Wed, 31 Jan 2024 11:51:23 GMT</pubDate>
+      
+      <description>这篇文章介绍了一款全面的理财神器——MoneyThings。该软件包括前言、交易、One Touch、交易编辑器、客制化键盘、交易详情页、分析、资产、设置、导入交易等多个功能模块。文章指出，MoneyThings是一款非常纯正的 Swift 配合 SwiftUI 开发的软件，具有现代化的界面和免费的核心功能。文章逐一介绍了软件的各个功能，包括交易分类、搜索和添加、快捷指令和小组件、交易编辑器和客制化键盘等。该软件可帮助用户进行记账和财产管理。</description>
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/">软件推荐</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/%E7%90%86%E8%B4%A2/">理财</category>
+      
+      <category domain="https://blog.kclub.tech/tags/iOS/">iOS</category>
+      
+      <category domain="https://blog.kclub.tech/tags/macOS/">macOS</category>
+      
+      <category domain="https://blog.kclub.tech/tags/iPadOS/">iPadOS</category>
+      
+      <category domain="https://blog.kclub.tech/tags/watchOS/">watchOS</category>
+      
+      
+      <comments>https://blog.kclub.tech/2024/01/31/MoneyThings/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript 调用 JSON API 实战</title>
+      <link>https://blog.kclub.tech/2024/01/31/js-with-json-api/</link>
+      <guid>https://blog.kclub.tech/2024/01/31/js-with-json-api/</guid>
+      <pubDate>Wed, 31 Jan 2024 03:06:57 GMT</pubDate>
+      
+      <description>这篇文章介绍了一个关于JavaScript调用JSON API的实战经验。作者首先介绍了代码的实现步骤，包括获取API、调用API、写入数据等。然后，作者解决了一些问题，如如何格式化ISO国家代码以及如何进行异常处理和优化方法等。最后，作者分享了一个完整的代码实例，并提供了一些Troubleshooting的建议。</description>
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/">编程开发</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://blog.kclub.tech/tags/Web/">Web</category>
+      
+      <category domain="https://blog.kclub.tech/tags/jQuery/">jQuery</category>
+      
+      <category domain="https://blog.kclub.tech/tags/JavaScript/">JavaScript</category>
+      
+      
+      <comments>https://blog.kclub.tech/2024/01/31/js-with-json-api/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>机器学习笔记之线性回归的代价函数(Cost Function for Linear Regression)</title>
+      <link>https://blog.kclub.tech/2024/01/30/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B%E4%BB%A3%E4%BB%B7%E5%87%BD%E6%95%B0/</link>
+      <guid>https://blog.kclub.tech/2024/01/30/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B%E4%BB%A3%E4%BB%B7%E5%87%BD%E6%95%B0/</guid>
+      <pubDate>Tue, 30 Jan 2024 01:39:02 GMT</pubDate>
+      
+      <description>这篇文章介绍了线性回归的代价函数。代价函数用于衡量模型预测结果与实际观测值之间的差异，衡量差异越小，模型的预测越准确。文中以均方误差作为代价函数，并给出了相关的代码实现。文章还介绍了一元线性回归和多元线性回归，并解释了过拟合的问题。最后通过实例代码演示了如何绘制代价函数的图像，并说明了一些注意事项。</description>
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/">编程开发</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/%E4%BB%A3%E4%BB%B7%E5%87%BD%E6%95%B0/">代价函数</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/">机器学习</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95/">统计学习方法</category>
+      
+      <category domain="https://blog.kclub.tech/tags/Cost-Function/">Cost Function</category>
+      
+      
+      <comments>https://blog.kclub.tech/2024/01/30/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E4%B9%8B%E4%BB%A3%E4%BB%B7%E5%87%BD%E6%95%B0/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>PVE软盘安装系统Tips</title>
+      <link>https://blog.kclub.tech/2023/12/03/PVE%E8%BD%AF%E7%9B%98%E5%AE%89%E8%A3%85%E7%B3%BB%E7%BB%9FTips/</link>
+      <guid>https://blog.kclub.tech/2023/12/03/PVE%E8%BD%AF%E7%9B%98%E5%AE%89%E8%A3%85%E7%B3%BB%E7%BB%9FTips/</guid>
+      <pubDate>Sun, 03 Dec 2023 14:21:50 GMT</pubDate>
+      
+      <description>这篇文章介绍了PVE软盘安装系统的方法和步骤。作者分享了软盘镜像下载的网站，并详细记录了安装过程，包括创建虚拟机、挂载软盘、引导系统等操作。作者还提供了指令示例和注意事项，帮助读者成功完成安装。文章以结语和欢迎留言结束，并提到后续会更新基于开源内核的系统安装教程。</description>
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/PVE/">PVE</category>
+      
+      <category domain="https://blog.kclub.tech/tags/%E7%B3%BB%E7%BB%9F%E6%80%80%E6%97%A7/">系统怀旧</category>
+      
+      <category domain="https://blog.kclub.tech/tags/MSDOS/">MSDOS</category>
+      
+      <category domain="https://blog.kclub.tech/tags/qemu-kvm/">qemu-kvm</category>
+      
+      
+      <comments>https://blog.kclub.tech/2023/12/03/PVE%E8%BD%AF%E7%9B%98%E5%AE%89%E8%A3%85%E7%B3%BB%E7%BB%9FTips/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>jQuery + Bootstrap实现合法性检测和加载进度条</title>
+      <link>https://blog.kclub.tech/2023/11/28/Bootstrap-jQuery%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1/</link>
+      <guid>https://blog.kclub.tech/2023/11/28/Bootstrap-jQuery%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1/</guid>
+      <pubDate>Tue, 28 Nov 2023 07:02:40 GMT</pubDate>
+      
+      <description>这篇文章介绍了如何利用jQuery和Bootstrap实现合法性检测和加载进度条。文章首先讲解了实现方法、环境以及必要的引用。然后详细介绍了如何通过代码实现表单的合法性检测和进度条的加载，在加载完成后进行跳转操作。最后作者提到写这篇文章的初衷是因为网上的相关教程都有错误，希望能帮助其他同学少走弯路。</description>
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%BC%96%E7%A8%8B%E5%BC%80%E5%8F%91/">编程开发</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://blog.kclub.tech/tags/Web/">Web</category>
+      
+      <category domain="https://blog.kclub.tech/tags/jQuery/">jQuery</category>
+      
+      <category domain="https://blog.kclub.tech/tags/Bootstrap/">Bootstrap</category>
+      
+      <category domain="https://blog.kclub.tech/tags/JavaScript/">JavaScript</category>
+      
+      
+      <comments>https://blog.kclub.tech/2023/11/28/Bootstrap-jQuery%E5%8A%A0%E8%BD%BD%E8%BF%9B%E5%BA%A6%E6%9D%A1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>在TrueNAS系统中安装PVE内核</title>
+      <link>https://blog.kclub.tech/2023/11/25/%E5%9C%A8TrueNAS%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85PVE%E5%86%85%E6%A0%B8/</link>
+      <guid>https://blog.kclub.tech/2023/11/25/%E5%9C%A8TrueNAS%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85PVE%E5%86%85%E6%A0%B8/</guid>
+      <pubDate>Fri, 24 Nov 2023 16:36:04 GMT</pubDate>
+      
+      <description>这篇文章介绍了在TrueNAS系统中安装PVE内核的步骤和解决方案。作者提供了更改TrueNAS设置、更改Hosts、添加PVE源并更新系统、安装PVE内核、安装PVE包、配置PVE网络、以及PVE挂载TrueNAS zfspool等方法。文章还提供了故障排除和参考资料。作者指出，在虚拟化系统中存在一些性能损耗，但可以在物理机上同时运行TrueNAS和PVE。然而，需要注意这仅是实验性测试，并不保证安装后的稳定性。</description>
+      
+      
+      
+      
+      <category domain="https://blog.kclub.tech/categories/%E7%9E%8E%E7%8E%A9%E6%8A%98%E8%85%BE/">瞎玩折腾</category>
+      
+      
+      <category domain="https://blog.kclub.tech/tags/NAS/">NAS</category>
+      
+      <category domain="https://blog.kclub.tech/tags/PVE/">PVE</category>
+      
+      <category domain="https://blog.kclub.tech/tags/TrueNAS/">TrueNAS</category>
+      
+      <category domain="https://blog.kclub.tech/tags/zfspool/">zfspool</category>
+      
+      
+      <comments>https://blog.kclub.tech/2023/11/25/%E5%9C%A8TrueNAS%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%AE%89%E8%A3%85PVE%E5%86%85%E6%A0%B8/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
