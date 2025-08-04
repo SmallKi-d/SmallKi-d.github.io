@@ -1,5 +1,5 @@
 // ipinfo
-var apiUrl = 'https://ipinfo.io/json?token=406ddb1346e83b';
+var apiUrl = 'https://ipinfo.io/json';
 
 function loadTableData(){
     const currentPagePath = window.location.pathname;
@@ -9,7 +9,9 @@ function loadTableData(){
             const tableData = JSON.parse(storedTableData);
             writeTable(tableData);
         } else {
-            fetch(apiUrl)
+            fetch(apiUrl,{
+                headers: { 'Authorization': `Bearer 406ddb1346e83b` }
+            })
                 .then(response=>{
                     if(!response.ok){
                         throw new Error('Can\'t Fetch API Url.');

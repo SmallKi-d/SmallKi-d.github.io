@@ -22,7 +22,9 @@
         
           
           
-      <description>&lt;h1 id=&quot;该文章正在撰写中…&quot;&gt;&lt;a href=&quot;#该文章正在撰写中…&quot; class=&quot;headerlink&quot; title=&quot;该文章正在撰写中…&quot;&gt;&lt;/a&gt;该文章正在撰写中…&lt;/h1&gt;&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+      <description>&lt;h1 id=&quot;该文章正在撰写中&quot;&gt;该文章正在撰写中…&lt;/h1&gt;
+&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;最近在学习 Godot</description>
           
         
       
@@ -47,7 +49,9 @@
         
           
           
-      <description>&lt;h2 id=&quot;这是一个在沙漠中，通过销售水之类的物品赚取金钱的游戏。&quot;&gt;&lt;a href=&quot;#这是一个在沙漠中，通过销售水之类的物品赚取金钱的游戏。&quot; class=&quot;headerlink&quot;</description>
+      <description>&lt;h2
+id=&quot;这是一个在沙漠中通过销售水之类的物品赚取金钱的游戏&quot;&gt;这是一个在沙漠中，通过销售水之类的物品赚取金钱的游戏。&lt;/h2&gt;
+&lt;p&gt;本作品由 MIDORIKAWA</description>
           
         
       
@@ -78,11 +82,10 @@
         
           
           
-      <description>&lt;ol&gt;
+      <description>&lt;ol type=&quot;1&quot;&gt;
 &lt;li&gt;游戏简介&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;本作品由 MIDORIKAWA 制作&lt;/p&gt;
-&lt;p&gt;发布于 &lt;a</description>
+&lt;p&gt;本作品由 MIDORIKAWA</description>
           
         
       
@@ -113,7 +116,9 @@
         
           
           
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;当我们在网上搜索关于 “如何本地部署 text-generation-ai” 时，你大概率会看到要求你不仅下载</description>
+      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;当我们在网上搜索关于 “如何本地部署 text-generation-ai”
+时，你大概率会看到要求你不仅下载 Conda，而且还要自行创建</description>
           
         
       
@@ -168,7 +173,9 @@
         
           
           
-      <description>&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;好久没玩刷机了，刚好最近捡了个旧手机玩一玩，想起当年刷机的经历还是蛮有意思的，没想到这么多年过去了还是没变，第三方 Rec 还是用的</description>
+      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;好久没玩刷机了，刚好最近捡了个旧手机玩一玩，想起当年刷机的经历还是蛮有意思的，没想到这么多年过去了还是没变，第三方
+Rec 还是用的 &lt;code&gt;TWRP&lt;/code&gt;， root 方案还是用的</description>
           
         
       
